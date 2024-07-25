@@ -1,0 +1,16 @@
+[Unit]
+Description=Telegram bot proxmox by FFT221
+After=syslog.target
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/home/USER-DIR/proxmox_bot
+ExecStart = /usr/bin/python3 /home/USER-DIR/proxmox_bot/proxmox-tg-bot.py
+RestartSec=10
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+
