@@ -1,4 +1,4 @@
-This tool is for managing Proxmox virtual machines in Telegram.
+This tool for managing Proxmox virtual machines in Telegram.
 
 ## Bot features:
 - Turning virtual machines on and off
