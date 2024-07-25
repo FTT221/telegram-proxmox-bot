@@ -6,7 +6,7 @@ This tool for managing Proxmox virtual machines in Telegram.
 - Convenient control anywhere in the world
 
 ## Example of a bot workin:
-![demo](https://github.com/FTT221/telegram-proxmox-bot/blob/main/.github/1.jpg)
+![demo](https://github.com/FTT221/telegram-proxmox-bot/blob/main/.github/demo.jpg)
 
 ## How to start a bot:
 The bot requires Python 3 and python3-pip to operate. Install them if they are not already installed.
